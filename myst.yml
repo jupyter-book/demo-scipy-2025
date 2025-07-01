@@ -1,0 +1,17 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: d48d13da-d6e0-43ca-b047-32fca064aef0
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/jupyter-book/demo-scipy-2025
+  toc: 
+    - file: content/serious-science.md
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
