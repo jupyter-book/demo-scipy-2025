@@ -1,4 +1,6 @@
 ---
+title: Doing Serious Science
+subtitle: A research paper, definitely
 kernelspec:
   name: python3
   display_name: Python 3
@@ -48,4 +50,8 @@ correlation, p_value = stats.pearsonr(household_spending, google_searches)
 
 :::{important} P-Value is Significant
 The figure shown in @cell:correlation is a super _serious_ bit of science. Look, it has a P-value of {eval}`format(p_value, ".3E")`. It must be real!
+
+The inspiration and data for this plot were taken from [Tyer Vigen].
 :::
+
+[Tyer Vigen]: https://www.tylervigen.com/spurious/correlation/19254_annual-us-household-spending-on-fruits-and-vegetables_correlates-with_google-searches-for-how-to-learn-python
