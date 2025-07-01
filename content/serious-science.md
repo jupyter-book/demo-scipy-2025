@@ -6,8 +6,6 @@ kernelspec:
   display_name: Python 3
 ---
 
-# Doing serious science
-
 Wait, we need data. Numpy is scientific, let's use a numpy.
 
 ```{code-cell} python3
